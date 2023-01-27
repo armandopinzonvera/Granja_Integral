@@ -1,0 +1,30 @@
+
+
+ ## evitar espacios vacios
+ ## quitar pestañeo de pantalla
+
+
+ Application.ScreenUpdating = False
+        
+    
+    If Range("d3").Value = Empty Then
+    MsgBox ("Datos vacios")
+    Exit Sub
+    End If
+
+
+
+
+
+
+
+
+
+
+
+
+=CONCATENAR(Registro!D13; " ";Registro!G13;", ";Registro!D14; " ";Registro!G14;", ";Registro!D15;" ";Registro!G15;", ";Registro!D16;" ";Registro!G16;", ";Registro!D17;" ";Registro!G17;", ";Registro!D18;" ";Registro!G18;", ";Registro!D19;" ";Registro!G19;", ";Registro!D20;" ";G20;">>";H21 )
+
+=CONCATENAR(Registro!D13;"_";Registro!G13;", ";Registro!D14;"_";Registro!G14;", ";Registro!D15;"_";Registro!G15;", ";Registro!D16;"_";Registro!G16;", ";Registro!D17;"_";Registro!G17;", ";Registro!D18;"_";Registro!G18;", ";Registro!D19;"_";Registro!G19;", ";Registro!D20;"_";Registro!G20;", ";Registro!D21;" $";Registro!H21;"<*>")
+===================================
+=CONCATENAR(Registro!D13;"(";Registro!G13;"), ";Registro!D14;"(";Registro!G14;"), ";Registro!D15;"(";Registro!G15;"), ";Registro!D16;"(";Registro!G16;"), ";Registro!D17;"(";Registro!G17;"), ";Registro!D18;"(";Registro!G18;"), ";Registro!D19;"(";Registro!G19;"), ";Registro!D20;"(";Registro!G20;"), ";Registro!D21;" $";Registro!H21;"<*>")

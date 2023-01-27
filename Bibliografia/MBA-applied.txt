@@ -1,0 +1,54 @@
+
+1. los negocios son la suma de 5 procesos interdependientes
+	- Creacion del producto
+	- Marketin
+	- ventas
+	- La provicion del producto
+	- finanzas
+
+2. los seres humanoss estan regidos 4 necesidades basicas
+	- Adquirir
+	- sentirse vinculado
+	- Aprender
+	- Protegerse
+	- Experimentar nuevas sensaciones
+
+3. Evaluar el mercado para el producto
+ 	- La urgencia (2)
+		Que tan rapido se requiere el producto
+	- El tamaño del mercado (5)
+		Cuantas personas compran de manera frecuente el producto
+	- Precio potencial del producto (5)
+		Precio maximo que un comprador estaria dispuesto a pagar
+	- Coste de ganar un cliente (5)
+		Que tan facil es ganar un nuevo cliente
+	- Coste del lanzamiento del producto (10)
+		Cuanto cuesta crear ese producto
+	- Singularidad de la oferta (10)
+		que hay de especial con la competencia
+	- Rapidez de ingreso en el mercado (8)
+		que tanto tiempo toma proveer el producto
+	- Inversion de capital (10)
+		Cuanto se debe invertir antes de iniciar
+	- Capacidad de ventas (8)
+		Que tan frecuente te comprarian
+	- Potencial Perenne (10)
+		Cuanto de debe invertir para mantener la compra
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
